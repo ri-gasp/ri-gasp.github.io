@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: RI GASP
+permalink: /
 ---
 
 Hello!
