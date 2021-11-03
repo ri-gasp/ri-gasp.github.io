@@ -1,7 +1,5 @@
 # If you want to link only specific pages in your header, add the path to the
 # pages in order as they should show up.
 main:
-  - title: "About"
-    url: /about/
-  - title: "Archives"
-    url: /archives/
+  - title: "Form"
+    url: https://docs.google.com/forms/d/e/1FAIpQLSdcDS2YgL2ZqPJm0e-xwndUrb7FUdndrGc0AC9BzX2Pka0EcA/viewform/
