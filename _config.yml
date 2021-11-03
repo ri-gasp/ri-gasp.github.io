@@ -38,7 +38,7 @@ google_analytics:
 comments: false
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+remote_theme: yous/whiteglass
 
 plugins:
   - jekyll-archives
