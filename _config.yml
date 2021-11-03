@@ -67,7 +67,7 @@ plugins:
 exclude:
   - README.md
   - about.md
-  - archive.md
+  - archives.md
 
 # Outputting
 permalink: /:year/:month/:day/:title/
