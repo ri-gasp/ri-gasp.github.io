@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the whiteglass theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello!
 
-You can find the source code for whiteglass at GitHub:
-[yous](https://github.com/yous) /
-[whiteglass](https://github.com/yous/whiteglass)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The Graduate Application Support Program aims to ensure that applicants to research graduate programs at the Robotics Institute have someone to provide feedback on their application before submission. Historically, people from underrepresented backgrounds have lacked access to guidance from people familiar with the higher degree application process. In order to take steps towards an equitable application process, we invite applicants to the MSR and PhD programs to fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdcDS2YgL2ZqPJm0e-xwndUrb7FUdndrGc0AC9BzX2Pka0EcA/viewform) (alternatively, if you are not able to access Google forms, you may fill out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAO2S8-RUNjBGSTkwMUhNRDRLOEwzMDJHQjBVM1Y3Vi4u) instead). Applicants will be matched with a current RI student, who will provide feedback on their application materials. Matching to mentors will be conducted on a rolling first-come-first-serve basis until the program reaches capacity.
