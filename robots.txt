@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ri-gasp.github.io//sitemap.xml
